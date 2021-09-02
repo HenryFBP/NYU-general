@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2021-09-02T18:05:55.542000000</meta:creation-date><dc:date>2021-09-02T18:46:15.831000000</dc:date><meta:editing-duration>PT5M42S</meta:editing-duration><meta:editing-cycles>3</meta:editing-cycles><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="362" meta:word-count="2192" meta:character-count="15953" meta:non-whitespace-character-count="13933"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">203884</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">49056</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">24026</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">23740</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">217653</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">203884</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">49054</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">227909</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">2070993</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2698650</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Lucida Sans1" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="NSimSun" svg:font-family="NSimSun" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Standard">From Matt Hibshman to Everyone: <text:s/>06:01 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/matthew-hibshman-cissp-2205452/ <text:s/>- feel free to connect</text:p>
+   <text:p text:style-name="Standard">From Nasir Memon to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/nmemon/</text:p>
+   <text:p text:style-name="Standard">From Tasha Holloway to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/tasha-holloway</text:p>
+   <text:p text:style-name="Standard">From Rick Scot (He|Him) to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">linkedin.com/in/ricksscot</text:p>
+   <text:p text:style-name="Standard">From Chengying He to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/chengyinghe/ I’m from Cohort 1, feel free to contact:)</text:p>
+   <text:p text:style-name="Standard">From Darren Gruber to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">I doubt the RNG is uniform random</text:p>
+   <text:p text:style-name="Standard">From Egor Semeniak to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">Multi-Tasking</text:p>
+   <text:p text:style-name="Standard">From Alin Iancau to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/alin-iancau/ - let’s connect!</text:p>
+   <text:p text:style-name="Standard">From Michelle to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/michelle-kushnir-850664b4/ Feel free to connect with me on LinkedIn :)</text:p>
+   <text:p text:style-name="Standard">From Tom Goodheart to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">silence on the wire has a chapter on how it probably isn&apos;t random</text:p>
+   <text:p text:style-name="Standard">From stephen stockman to Everyone: <text:s/>06:02 PM</text:p>
+   <text:p text:style-name="Standard">gotta fit your working out somehow</text:p>
+   <text:p text:style-name="Standard">From Rebecca Diaz to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">looking forward to connecting with everyone! https://www.linkedin.com/mwlite/in/rebeccadiaz1</text:p>
+   <text:p text:style-name="Standard">From Nicklaus Koeppen to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">www.linkedin.com/in/nicklauskoeppen</text:p>
+   <text:p text:style-name="Standard">From Elisabeth Sharpe to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/elisabeth-sh/ Cohort 1 here as well -- welcome new students!</text:p>
+   <text:p text:style-name="Standard">From Ryan Zou to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/ryan-zou-801a7731</text:p>
+   <text:p text:style-name="Standard">From Elh Tahirou Sow to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/elhtahirousow/</text:p>
+   <text:p text:style-name="Standard">From AJ to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/ajomartian/</text:p>
+   <text:p text:style-name="Standard">From Dan S to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/szajngarten/</text:p>
+   <text:p text:style-name="Standard">From Kunal Mukherjee to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/kunalmuk/</text:p>
+   <text:p text:style-name="Standard">From David Moncayo to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/davidmoncayo/</text:p>
+   <text:p text:style-name="Standard">From ajitshrivastav to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">Https://linked.com/in/ajitshrivastav</text:p>
+   <text:p text:style-name="Standard">From aniikagjesvold to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/aniika-gjesvold-942a1648/</text:p>
+   <text:p text:style-name="Standard">From Kumaran Sambandan to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/kumaransambandan/</text:p>
+   <text:p text:style-name="Standard">From Kris Acevedo to Everyone: <text:s/>06:03 PM</text:p>
+   <text:p text:style-name="Standard">Sorry I just got to the meeting audio late. Was finishing up and interview</text:p>
+   <text:p text:style-name="Standard">From Mahmudur Rahman to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/>looking forward to connect with everyone www.linkedin.com/in/rahmanmahmud</text:p>
+   <text:p text:style-name="Standard">From Venkatesan Pillai to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/venkatesanpillai</text:p>
+   <text:p text:style-name="Standard">From Kairi Purnell to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/kairipurnell/</text:p>
+   <text:p text:style-name="Standard">From Kris Acevedo to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">www.LinkedIn.com/aceslay</text:p>
+   <text:p text:style-name="Standard">From Kairi Purnell to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">Would love to connect</text:p>
+   <text:p text:style-name="Standard">From Edna Conway to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/ednaconway</text:p>
+   <text:p text:style-name="Standard">From Dean Norris to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/deannorris</text:p>
+   <text:p text:style-name="Standard">From Sreya Basuroy to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/sreya-basuroy-61a22a75/</text:p>
+   <text:p text:style-name="Standard">From Aleks to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">Here is mine - https://www.linkedin.com/in/aleksandr-tsaturyan-cism-csx-f-cisa-76ab6011/?locale=cs_CZ</text:p>
+   <text:p text:style-name="Standard">From dsag to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">http://linkedin.com/in/devinsag</text:p>
+   <text:p text:style-name="Standard">From Aleks to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">let&apos;s connect.</text:p>
+   <text:p text:style-name="Standard">From Najlaa1989@ to Everyone: <text:s/>06:04 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/najlaa-bouras/</text:p>
+   <text:p text:style-name="Standard">From AUSTIN BUDHRAM to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/austinbudhram/</text:p>
+   <text:p text:style-name="Standard">From Charlie Carway to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">welcome all. <text:s/>https://www.linkedin.com/in/charlie-carway-aab96112</text:p>
+   <text:p text:style-name="Standard">From Trishala to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/trish9708/ <text:s/>Looking forward to connect</text:p>
+   <text:p text:style-name="Standard">From Tanny Das to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/tannydas</text:p>
+   <text:p text:style-name="Standard">From Alton Idowu to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">Northern Virginia here</text:p>
+   <text:p text:style-name="Standard">From Mahmoud Alminawi to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/mahmoud-alminawi-108352174</text:p>
+   <text:p text:style-name="Standard">From Venkat Panchedula to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/vpanchedula/</text:p>
+   <text:p text:style-name="Standard">From Anjana Nair to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/anjunair/</text:p>
+   <text:p text:style-name="Standard">From Gabriela Gutierrez Sanchez to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/ana-gabriela-guti%C3%A9rrez-s%C3%A1nchez-09230169/</text:p>
+   <text:p text:style-name="Standard">From Leandro Maciel to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/lmaciel/</text:p>
+   <text:p text:style-name="Standard">From Siva Gopal to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">Hello All , feel free to connect https://www.linkedin.com/in/siva-gopal/</text:p>
+   <text:p text:style-name="Standard">From Shahadat Hossain to Everyone: <text:s/>06:05 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/shahossain/</text:p>
+   <text:p text:style-name="Standard">From Omar to Everyone: <text:s/>06:06 PM</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/>https://www.linkedin.com/in/omar-abbasi-b4781946</text:p>
+   <text:p text:style-name="Standard">From Me to Everyone: <text:s/>06:06 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/henryfbp/</text:p>
+   <text:p text:style-name="Standard">From Omar Mohamed to Everyone: <text:s/>06:06 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/mohamed-omar-6b22aa27</text:p>
+   <text:p text:style-name="Standard">From Jessie Sun to Everyone: <text:s/>06:06 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/wenyingsun/</text:p>
+   <text:p text:style-name="Standard">From Mahmudur Rahman to Everyone: <text:s/>06:06 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/rahmanmahmud/</text:p>
+   <text:p text:style-name="Standard">From Brian Murphy to Everyone: <text:s/>06:06 PM</text:p>
+   <text:p text:style-name="Standard">Hey all, feel free to connect on LinkedIn: https://www.linkedin.com/in/brianmurphy94/</text:p>
+   <text:p text:style-name="Standard">From Richard Callahan to Everyone: <text:s/>06:06 PM</text:p>
+   <text:p text:style-name="Standard">Hooray! Everyone register for CSAW CTF: https://ctf.csaw.io</text:p>
+   <text:p text:style-name="Standard">From Nicholas Louisma to Everyone: <text:s/>06:06 PM</text:p>
+   <text:p text:style-name="Standard">Hoping to connect with all of you! https://www.linkedin.com/in/nicholaslouisma/</text:p>
+   <text:p text:style-name="Standard">From Mahmoud Alminawi to Everyone: <text:s/>06:07 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/mahmoud-alminawi-108352174</text:p>
+   <text:p text:style-name="Standard">From Rama Shah to Everyone: <text:s/>06:07 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/rama-shah/</text:p>
+   <text:p text:style-name="Standard">From Miran Chowdhery to Everyone: <text:s/>06:07 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/miran-chowdhery-4186205/</text:p>
+   <text:p text:style-name="Standard">From Chris Schooley to Everyone: <text:s/>06:07 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/chrisschooley/</text:p>
+   <text:p text:style-name="Standard">From Kediel Morales to Everyone: <text:s/>06:07 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/kediel/</text:p>
+   <text:p text:style-name="Standard">From Rama Shah to Everyone: <text:s/>06:07 PM</text:p>
+   <text:p text:style-name="Standard">Hello!</text:p>
+   <text:p text:style-name="Standard">From Prateek Karamadi to Everyone: <text:s/>06:07 PM</text:p>
+   <text:p text:style-name="Standard">Hi All, feel free to connect on linkedin. https://www.linkedin.com/in/prateek-k-557b8b17/</text:p>
+   <text:p text:style-name="Standard">From Jasmine Sullivan to Everyone: <text:s/>06:07 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/jasminesullivann</text:p>
+   <text:p text:style-name="Standard">From stephen stockman to Everyone: <text:s/>06:07 PM</text:p>
+   <text:p text:style-name="Standard">unofficial discord same as one previously posted(mostly for fun stuff), includes cyberfellows and people who are in the non-cyberfellow MS Cybersecurity program - https://discord.gg/K7gjYGH3</text:p>
+   <text:p text:style-name="Standard">From Rama Shah to Everyone: <text:s/>06:08 PM</text:p>
+   <text:p text:style-name="Standard">Deploy CS fellow!!!</text:p>
+   <text:p text:style-name="Standard">From Prashant Jindal to Everyone: <text:s/>06:08 PM</text:p>
+   <text:p text:style-name="Standard">Have you all joined Cyber Fellow group on Linked In?</text:p>
+   <text:p text:style-name="Standard">From Stephen Seeler to Everyone: <text:s/>06:08 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/stephenseeler/</text:p>
+   <text:p text:style-name="Standard">From Katerina Lux to Everyone: <text:s/>06:09 PM</text:p>
+   <text:p text:style-name="Standard">looking forward to connecting with everyone! www.linkedin.com/in/katerinalux</text:p>
+   <text:p text:style-name="Standard">From Mike LaPoint to Everyone: <text:s/>06:09 PM</text:p>
+   <text:p text:style-name="Standard">Please feel free to connect <text:s text:c="2"/>https://www.linkedin.com/in/lapointmichael/</text:p>
+   <text:p text:style-name="Standard">From Isaac Jean-Francois to Everyone: <text:s/>06:10 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/isaac-jean-francois-2b327a54/</text:p>
+   <text:p text:style-name="Standard">Feel free to connect</text:p>
+   <text:p text:style-name="Standard">From Prashant Jindal to Everyone: <text:s/>06:11 PM</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/>Please feel free to connect. www.linkedin.com/in/prashant-jindal-46b76847 <text:s/>You can also find me in the cyber fellow group on linked in. Looking forward to learn with you all.</text:p>
+   <text:p text:style-name="Standard">From madhat.choudhury2 to Everyone: <text:s/>06:11 PM</text:p>
+   <text:p text:style-name="Standard">Hi everyone</text:p>
+   <text:p text:style-name="Standard">From Pramod Bhat to Everyone: <text:s/>06:11 PM</text:p>
+   <text:p text:style-name="Standard">Hi Guys!, Add me here https://www.linkedin.com/in/pramodbhatsrs/</text:p>
+   <text:p text:style-name="Standard">From madhat.choudhury2 to Everyone: <text:s/>06:11 PM</text:p>
+   <text:p text:style-name="Standard">Please feel free to connect https://www.linkedin.com/in/madhat-choudhury-6938071a4</text:p>
+   <text:p text:style-name="Standard">From Joel Caminer to Everyone: <text:s/>06:11 PM</text:p>
+   <text:p text:style-name="Standard">2 great LinkedIn groups for NYU Cyber Fellows to join to stay connected with each other and the broader NYU cyber community: <text:s/>https://www.linkedin.com/groups/12229582/ and https://www.linkedin.com/groups/13980407/</text:p>
+   <text:p text:style-name="Standard">From Prasanna Kulkarni to Everyone: <text:s/>06:11 PM</text:p>
+   <text:p text:style-name="Standard">Hello All, Please feel free to connect </text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/prasanna-kulkarni-3ba4332/</text:p>
+   <text:p text:style-name="Standard">From Pranavi Kotagiri to Everyone: <text:s/>06:12 PM</text:p>
+   <text:p text:style-name="Standard">Hi Everyone! Looking forward to connect with everyone</text:p>
+   <text:p text:style-name="Standard">From Hency Perez to Everyone: <text:s/>06:12 PM</text:p>
+   <text:p text:style-name="Standard">Hi All - looking forward to meeting all of you. Feel free to connect.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">www.linkedin.com/in/hencyp</text:p>
+   <text:p text:style-name="Standard">From Egor Semeniak to Everyone: <text:s/>06:13 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Nasir! Great speech!</text:p>
+   <text:p text:style-name="Standard">From lsegal to Everyone: <text:s/>06:15 PM</text:p>
+   <text:p text:style-name="Standard">Thanks Nasir!</text:p>
+   <text:p text:style-name="Standard">From Ikhtear Hossain to Everyone: <text:s/>06:15 PM</text:p>
+   <text:p text:style-name="Standard">Thanks Nasir for great speech!</text:p>
+   <text:p text:style-name="Standard">From lsegal to Everyone: <text:s/>06:18 PM</text:p>
+   <text:p text:style-name="Standard">That is amazing Elizabeth!</text:p>
+   <text:p text:style-name="Standard">From Olena Striuk to Everyone: <text:s/>06:18 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Nasir and Elizabeth for a great motivation and mood to start the journey at NYU.</text:p>
+   <text:p text:style-name="Standard">From Clemence to Everyone: <text:s/>06:18 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/mcdieudonne/</text:p>
+   <text:p text:style-name="Standard">From Srinivas Gupta to Everyone: <text:s/>06:20 PM</text:p>
+   <text:p text:style-name="Standard">This is me! https://www.linkedin.com/in/srinivas-gupta-3804141a/</text:p>
+   <text:p text:style-name="Standard">From Gerard Forster to Everyone: <text:s/>06:20 PM</text:p>
+   <text:p text:style-name="Standard">Fantastic point.</text:p>
+   <text:p text:style-name="Standard">From Rama Shah to Everyone: <text:s/>06:21 PM</text:p>
+   <text:p text:style-name="Standard">🙌🙌</text:p>
+   <text:p text:style-name="Standard">From Kiran Chaudhry to Everyone: <text:s/>06:21 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/kiran-chaudhry-010169182/</text:p>
+   <text:p text:style-name="Standard">From Joel Caminer to Everyone: <text:s/>06:21 PM</text:p>
+   <text:p text:style-name="Standard">!!!great words of wisdom Liz, thx for sharing your insights!!!</text:p>
+   <text:p text:style-name="Standard">From Selome to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Nasir and Elizabeth!</text:p>
+   <text:p text:style-name="Standard">From Egor Semeniak to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Looking forward to connecting with you all! https://www.linkedin.com/in/egor-semeniak/</text:p>
+   <text:p text:style-name="Standard">From Robinson Acosta to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/robinson-acosta/</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/>From Richard Callahan to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Our three-year mission: to boldly code where no one has coded before!</text:p>
+   <text:p text:style-name="Standard">From John Amiri to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Moving talk! Thanks, Liz</text:p>
+   <text:p text:style-name="Standard">From Tasnim to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Thanks for the inspiring speech!</text:p>
+   <text:p text:style-name="Standard">From Chengying He to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">👏👏👏</text:p>
+   <text:p text:style-name="Standard">From Ulysses Reyes to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Liz</text:p>
+   <text:p text:style-name="Standard">From Egor Semeniak to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Elizabeth!</text:p>
+   <text:p text:style-name="Standard">From hamilton to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Thanks!</text:p>
+   <text:p text:style-name="Standard">From Mahmudur Rahman to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">thanks elizabeth</text:p>
+   <text:p text:style-name="Standard">From Peter A to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Thank you!</text:p>
+   <text:p text:style-name="Standard">From Sreya Basuroy to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Elizabeth for the inspirational words!</text:p>
+   <text:p text:style-name="Standard">From Srinivas Gupta to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Nice speech!</text:p>
+   <text:p text:style-name="Standard">From Shahadat Hossain to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Thanks a lot for this!</text:p>
+   <text:p text:style-name="Standard">From Katerina Lux to Everyone: <text:s/>06:22 PM</text:p>
+   <text:p text:style-name="Standard">Awesome and thank you Elizabeth! 🙌</text:p>
+   <text:p text:style-name="Standard">From Patrick Palafox to Everyone: <text:s/>06:23 PM</text:p>
+   <text:p text:style-name="Standard">Great speech! Thank you!</text:p>
+   <text:p text:style-name="Standard">From josten to Everyone: <text:s/>06:23 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Elizabeth</text:p>
+   <text:p text:style-name="Standard">From Irene to Everyone: <text:s/>06:23 PM</text:p>
+   <text:p text:style-name="Standard">Thank you</text:p>
+   <text:p text:style-name="Standard">From Ikhtear Hossain to Everyone: <text:s/>06:23 PM</text:p>
+   <text:p text:style-name="Standard">Thanks you Elizabeth.</text:p>
+   <text:p text:style-name="Standard">From Barindra Narinesingh to Everyone: <text:s/>06:23 PM</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/barindra-narinesingh</text:p>
+   <text:p text:style-name="Standard">Thanks for the motivational speech.</text:p>
+   <text:p text:style-name="Standard">From Edna Conway to Everyone: <text:s/>06:23 PM</text:p>
+   <text:p text:style-name="Standard">Colleagues, as a member of the Cyber Fellows Advisory Council I was delighted to have joined you this evening. My apologies for having to depart before this evening&apos;s event concluded. <text:s/>Delighted to be part of your community. Edna Conway, Chief Security &amp; Risk Officer, Microsoft Azure</text:p>
+   <text:p text:style-name="Standard">From Saba to Everyone: <text:s/>06:23 PM</text:p>
+   <text:p text:style-name="Standard">happy to connect! https://www.linkedin.com/in/sabaambreen/</text:p>
+   <text:p text:style-name="Standard">From Anne LaPerla to Everyone: <text:s/>06:23 PM</text:p>
+   <text:p text:style-name="Standard">Wonderful speech Liz!!!!!</text:p>
+   <text:p text:style-name="Standard">From Stephen Omorogbe to Everyone: <text:s/>06:24 PM</text:p>
+   <text:p text:style-name="Standard">Happy to connect!</text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/omorogbe</text:p>
+   <text:p text:style-name="Standard">From Richard Callahan to Everyone: <text:s/>06:24 PM</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/>I&apos;ve found that community here, in my classes and the OSIRIS Lab. And more broadly, through the people participating in CSAW. Many thanks to NYU Tandon and our sponsors.</text:p>
+   <text:p text:style-name="Standard">From Anne LaPerla to Everyone: <text:s/>06:25 PM</text:p>
+   <text:p text:style-name="Standard">Great conversations and looking forward to connect with everyone! https://www.linkedin.com/in/alaperla/</text:p>
+   <text:p text:style-name="Standard">From Bhavin Soni to Everyone: <text:s/>06:25 PM</text:p>
+   <text:p text:style-name="Standard">looking forward to connecting with everyone! www.linkedin.com/in/bhavsoni</text:p>
+   <text:p text:style-name="Standard">From Elizabeth Agosto to Everyone: <text:s/>06:26 PM</text:p>
+   <text:p text:style-name="Standard">Thanks all- so excited to be a part of this community, you guys are going to have amazing careers!!!</text:p>
+   <text:p text:style-name="Standard">From Popuri, Yashwanth to Everyone: <text:s/>06:27 PM</text:p>
+   <text:p text:style-name="Standard">Anyone near by dallas, texas area who would like to meet greet, brain storm ….</text:p>
+   <text:p text:style-name="Standard"><text:s/>https://www.linkedin.com/in/yashwanth-p-a0106874</text:p>
+   <text:p text:style-name="Standard">From Elizabeth Agosto to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">Thanks all!</text:p>
+   <text:p text:style-name="Standard">That was inspiring Jennifer, you will be amazing!</text:p>
+   <text:p text:style-name="Standard">From Egor Semeniak to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Jennifer! Very inspiring!</text:p>
+   <text:p text:style-name="Standard">From Barindra Narinesingh to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">Jennifer your story is heartwarming, best of luck in the program.</text:p>
+   <text:p text:style-name="Standard">From Ankur Sharma to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">Wish you all the best Jennifer</text:p>
+   <text:p text:style-name="Standard">From Chengying He to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">Jennifer, thank you for sharing! Best wishes!</text:p>
+   <text:p text:style-name="Standard">From Robert Kramer to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Jennifer and congrats scholarship Recipients!</text:p>
+   <text:p text:style-name="Standard">From Aaron Thomas to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">Thanks for sharing your story Jennifer. Very inspiring!</text:p>
+   <text:p text:style-name="Standard">From Patrick Palafox to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Jennifer for sharing your story! Congratulations!</text:p>
+   <text:p text:style-name="Standard">From Jennifer Weismantle to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">Thanks everyone !</text:p>
+   <text:p text:style-name="Standard">From Aaron Thomas to Everyone: <text:s/>06:34 PM</text:p>
+   <text:p text:style-name="Standard">And Congrats on the scholarship</text:p>
+   <text:p text:style-name="Standard">From Kediel Morales to Everyone: <text:s/>06:35 PM</text:p>
+   <text:p text:style-name="Standard">Inspiring and best of luck Jennifer, happy to have a fighter in the cohort!</text:p>
+   <text:p text:style-name="Standard">From Dean Norris to Everyone: <text:s/>06:35 PM</text:p>
+   <text:p text:style-name="Standard">congrats, well deserved.</text:p>
+   <text:p text:style-name="Standard">From Glenn Kinen to Everyone: <text:s/>06:35 PM</text:p>
+   <text:p text:style-name="Standard">Jennifer, thank you so much for sharing. Congratulations! (And PBS was/is a great teacher... I loved Sagan&apos;s original Cosmos!)</text:p>
+   <text:p text:style-name="Standard">From dsag to Everyone: <text:s/>06:35 PM</text:p>
+   <text:p text:style-name="Standard">Well deserved! Congratulations Jennifer!</text:p>
+   <text:p text:style-name="Standard">From Matthew Alan Lester to Everyone: <text:s/>06:35 PM</text:p>
+   <text:p text:style-name="Standard">Thank you for sharing Jennifer. <text:s/>Congratulations!</text:p>
+   <text:p text:style-name="Standard">From Elizabeth Agosto to Everyone: <text:s/>06:35 PM</text:p>
+   <text:p text:style-name="Standard">Thank you everyone, so excited to be part of your incredible Cyber journey - welcome to our amazing community! <text:s/>Looking forward to learning from everyone of you. <text:s/>I have an engagement and have to drop - Lets all connect!</text:p>
+   <text:p text:style-name="Standard">From Kunal Mukherjee to Everyone: <text:s/>06:36 PM</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/>Congratulations to all the scholarship recipients !!</text:p>
+   <text:p text:style-name="Standard">From Armando Flores to Everyone: <text:s/>06:36 PM</text:p>
+   <text:p text:style-name="Standard">Great to meet you all. I&apos;d like to keep the conversation going and get to know more people. Here is my linkedin and feel free to connect and chat: </text:p>
+   <text:p text:style-name="Standard">https://www.linkedin.com/in/armandofm/</text:p>
+   <text:p text:style-name="Standard">From rebecca diaz to Everyone: <text:s/>06:39 PM</text:p>
+   <text:p text:style-name="Standard">thank you!</text:p>
+   <text:p text:style-name="Standard">looking forward to meeting everyone in person!</text:p>
+   <text:p text:style-name="Standard">From Elizabeth Agosto to Everyone: <text:s/>06:39 PM</text:p>
+   <text:p text:style-name="Standard">Congratulations to all the scholarship recipients!</text:p>
+   <text:p text:style-name="Standard">From John Amiri to Everyone: <text:s/>06:39 PM</text:p>
+   <text:p text:style-name="Standard">Congrats!</text:p>
+   <text:p text:style-name="Standard">From Tina Ridley to Everyone: <text:s/>06:39 PM</text:p>
+   <text:p text:style-name="Standard">Thank you so much!!</text:p>
+   <text:p text:style-name="Standard">From Alin Iancau to Everyone: <text:s/>06:39 PM</text:p>
+   <text:p text:style-name="Standard">Congratulations!</text:p>
+   <text:p text:style-name="Standard">From dsag to Everyone: <text:s/>06:39 PM</text:p>
+   <text:p text:style-name="Standard">Congratulations!</text:p>
+   <text:p text:style-name="Standard">From Mike LaPoint to Everyone: <text:s/>06:40 PM</text:p>
+   <text:p text:style-name="Standard">Congratulations!!!</text:p>
+   <text:p text:style-name="Standard">From Elizabeth Agosto to Everyone: <text:s/>06:41 PM</text:p>
+   <text:p text:style-name="Standard">Love it!!!!</text:p>
+   <text:p text:style-name="Standard">From Jentzel U Boitel to Everyone: <text:s/>06:41 PM</text:p>
+   <text:p text:style-name="Standard">She an Unicorn ;-)</text:p>
+   <text:p text:style-name="Standard">She IS a Unicorn!</text:p>
+   <text:p text:style-name="Standard">From Prateek Karamadi to Everyone: <text:s/>06:41 PM</text:p>
+   <text:p text:style-name="Standard">Congratulations to all scholarship recipients!!</text:p>
+   <text:p text:style-name="Standard">From Elizabeth Agosto to Everyone: <text:s/>06:42 PM</text:p>
+   <text:p text:style-name="Standard">Love her energy - a cybersecurity ambassador!!!!</text:p>
+   <text:p text:style-name="Standard">From Rama Shah to Everyone: <text:s/>06:42 PM</text:p>
+   <text:p text:style-name="Standard">👏</text:p>
+   <text:p text:style-name="Standard">From Robert Kramer to Everyone: <text:s/>06:43 PM</text:p>
+   <text:p text:style-name="Standard">Thank you so much Omkhar and Hanah. Congratulations to scholarship participants.</text:p>
+   <text:p text:style-name="Standard">From Omkhar Arasaratnam to Everyone: <text:s/>06:43 PM</text:p>
+   <text:p text:style-name="Standard">👏🏾</text:p>
+   <text:p text:style-name="Standard">From Selome to Everyone: <text:s/>06:43 PM</text:p>
+   <text:p text:style-name="Standard">Congrats Hanah!</text:p>
+   <text:p text:style-name="Standard">From Patrick Palafox to Everyone: <text:s/>06:43 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Hanah! Congratulations!</text:p>
+   <text:p text:style-name="Standard">From Rama Shah to Everyone: <text:s/>06:43 PM</text:p>
+   <text:p text:style-name="Standard">I am going to the WiCys event in Colorado! Lets Connect!</text:p>
+   <text:p text:style-name="Standard">From rebecca diaz to Everyone: <text:s/>06:43 PM</text:p>
+   <text:p text:style-name="Standard">👏</text:p>
+   <text:p text:style-name="Standard">From Mike LaPoint to Everyone: <text:s/>06:43 PM</text:p>
+   <text:p text:style-name="Standard">Thank you Hanah and congratulations!!!</text:p>
+   <text:p text:style-name="Standard">From Kediel Morales to Everyone: <text:s/>06:43 PM</text:p>
+   <text:p text:style-name="Standard">There’s always support whether you aren’t aware or if no one tells you directly!</text:p>
+   <text:p text:style-name="Standard">From Rama Shah to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">👏👏👏</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/>From Robert Kramer to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">Amazing work!</text:p>
+   <text:p text:style-name="Standard">From Ryan Allen to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">Woohoo!</text:p>
+   <text:p text:style-name="Standard">From aniikagjesvold to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">Im definitely curious about the Women in Cybersecurity group now :D</text:p>
+   <text:p text:style-name="Standard">From John Amiri to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">congratssss</text:p>
+   <text:p text:style-name="Standard">From Pankaj to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">Congratulations!</text:p>
+   <text:p text:style-name="Standard">From Patrick Palafox to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">Congratulations to you all!</text:p>
+   <text:p text:style-name="Standard">From Saba to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">Tank you Hanah! Feel free to join Women in Cybersecurity - Student chapter at NYU Slack workspace: https://wicysnyu.slack.com/</text:p>
+   <text:p text:style-name="Standard">From Jennifer Weismantle to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">Congrats everyone !</text:p>
+   <text:p text:style-name="Standard">From Selome to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">Congrats all!</text:p>
+   <text:p text:style-name="Standard">From Armando Flores to Everyone: <text:s/>06:44 PM</text:p>
+   <text:p text:style-name="Standard">Congratulations!!!</text:p>
+   <text:p text:style-name="Standard">From Selome to Everyone: <text:s/>06:45 PM</text:p>
+   <text:p text:style-name="Standard">Thank you all!</text:p>
+   <text:p text:style-name="Standard">From Dimple Shah to Everyone: <text:s/>06:45 PM</text:p>
+   <text:p text:style-name="Standard">thank you</text:p>
+   <text:p text:style-name="Standard">From Veda Pulakanti to Everyone: <text:s/>06:45 PM</text:p>
+   <text:p text:style-name="Standard">Congrats All!!</text:p>
+   <text:p text:style-name="Standard">From Katerina Lux to Everyone: <text:s/>06:45 PM</text:p>
+   <text:p text:style-name="Standard">congrats everyone!</text:p>
+   <text:p text:style-name="Standard">From Kunal Mukherjee to Everyone: <text:s/>06:45 PM</text:p>
+   <text:p text:style-name="Standard">All the best to the new starters</text:p>
+   <text:p text:style-name="Standard">From Rama Shah to Everyone: <text:s/>06:45 PM</text:p>
+   <text:p text:style-name="Standard">@aniikagjesvold lets connect!</text:p>
+   <text:p text:style-name="Standard">From Srikar Konudula to Everyone: <text:s/>06:46 PM</text:p>
+   <text:p text:style-name="Standard">Thank you to all the speakers and fellow students!</text:p>
+  </office:text>
+ </office:body>
+</office:document>
